@@ -12,3 +12,4 @@ sqlparse==0.3.0
 update-checker==0.16
 urllib3==1.25.3
 websocket-client==0.56.0
+whitenoise==4.1.3
