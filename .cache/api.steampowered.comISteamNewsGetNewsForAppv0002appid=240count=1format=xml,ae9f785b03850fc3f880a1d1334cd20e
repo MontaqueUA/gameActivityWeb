@@ -1,0 +1,35 @@
+status: 200
+content-type: text/xml; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:17:17 GMT
+date: Wed, 11 Sep 2019 06:17:17 GMT
+content-length: 2144
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=240&count=1&format=xml
+-varied-accept-encoding: gzip, deflate
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appnews>
+<appnews>
+	<appid>240</appid>
+	<newsitems>
+		<newsitem>
+			<gid>2413284533092166221</gid>
+			<title>Dustnet is a strange and wonderful dream of the last de_dust2 server</title>
+			<url>https://steamstore-a.akamaihd.net/news/externalpost/rps/2413284533092166221</url>
+			<is_external_url>true</is_external_url>
+			<author>contact@rockpapershotgun.com (Alice O&apos;Connor)</author>
+			<contents>&lt;p&gt;&lt;a href=&quot;https://assets.rockpapershotgun.com/images/2019/07/987290_20190718112018_1.png&quot;&gt;&lt;img src=&quot;https://assets.rockpapershotgun.com/images/2019/07/987290_20190718112018_1.png/RPSS/resize/690x-1/format/jpg//RPSS/resize/670x-1/format/jpg/&quot; width=&quot;670&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Were Plato alive today, he&amp;#8217;d declare a sixth platonic solid: de_dust2, representing the sixth element of devotion. This sacred configuration of geometry escaped its confinement in Counter-Strike and for eighteen years the map has lived in the hearts of men, re-emerging in dreams, in other games with level editors, and in mashed potato sculptures carved at the dinner table. But in the far future, the last remaining copy of de_dust2 is maintained inside &lt;a href=&quot;https://www.rockpapershotgun.com/game/dustnet/&quot;&gt;Dustnet&lt;/a&gt;, a multiplayer sandbox building self-aware deathmatch museum&amp;#8230; thing? It&amp;#8217;s out now, I&amp;#8217;ve played a bit, I adore it, and I&amp;#8217;m excited to figure out exactly what it is.&lt;/p&gt;
+&lt;p&gt; &lt;a href=&quot;https://www.rockpapershotgun.com/2019/07/18/dustnet-is-a-strange-and-wonderful-dream-of-the-last-de_dust2-server/#more-707121&quot; class=&quot;more-link&quot;&gt;&lt;span aria-label=&quot;Continue reading Dustnet is a strange and wonderful dream of the last de_dust2 server&quot;&gt;(more&amp;hellip;)&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+</contents>
+			<feedlabel>Rock, Paper, Shotgun</feedlabel>
+			<date>1563451065</date>
+			<feedname>rps</feedname>
+			<feed_type>0</feed_type>
+			<appid>240</appid>
+		</newsitem>
+	</newsitems>
+	<count>183</count>
+</appnews>

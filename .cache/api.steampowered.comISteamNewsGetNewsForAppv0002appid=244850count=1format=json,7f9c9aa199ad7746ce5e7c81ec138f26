@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:43 GMT
+date: Wed, 11 Sep 2019 06:19:43 GMT
+content-length: 1324
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=244850&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":244850,"newsitems":[{"gid":"2415540140470784517","title":"Developer Snapshot #2 with the Space Engineers Art Team!","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2415540140470784517","is_external_url":true,"author":"Blitzzz333","contents":"[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/5134093/283a67c11c0ae997da2bc144c0c5117d1f132a4e.png[/img]\r\n\r\nHello, Engineers!\r\n\r\nIt’s been awhile (September 27th, 2018 to be exact), but we’re back with another [b]Keen Software House Developer Snapshot! \r\n[/b]\r\n\r\n[h1]We’ve got a behind the scenes video with the Space Engineers Art Team for Developer Snapshot #2:[/h1]\r\nhttps://www.youtube.com/watch?v=97zyWKCFaww\r\n\r\nFor more information on[b] job opportunities[/b] at Keen Software House, please see this link:\r\nhttps://www.keenswh.com/jobs.html\r\n\r\nYou can purchase the [b]Economy Deluxe here[/b]: \r\nhttps://store.steampowered.com/app/1135960/Space_Engineers__Economy_Deluxe/\r\n\r\n[b]Lastly, we’re hoping to bring you many more Developer Snapshots on a consistent basis in the near future.[/b]\r\n\r\nEnjoy!\r\n","feedlabel":"Community Announcements","date":1567430794,"feedname":"steam_community_announcements","feed_type":1,"appid":244850}],"count":388}}

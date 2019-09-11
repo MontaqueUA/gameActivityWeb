@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:52 GMT
+date: Wed, 11 Sep 2019 06:19:52 GMT
+content-length: 2169
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=437570&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":437570,"newsitems":[{"gid":"2426778849035452164","title":"The Humble Caffeine Bundle is full of games worth staying up late for","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/2426778849035452164","is_external_url":true,"author":"contact@rockpapershotgun.com (Dominic Tarason)","contents":"<p><img src=\"https://assets.rockpapershotgun.com/images/2019/01/Humble-Caffeine-1.jpg/RPSS/resize/670x-1/format/jpg/\" width=\"670\" />\n<img src=\"https://assets.rockpapershotgun.com/images/2019/01/Humble-Caffeine-2.jpg/RPSS/resize/670x-1/format/jpg/\" width=\"670\" />\n<img src=\"https://assets.rockpapershotgun.com/images/2019/01/Humble-Caffeine-3.jpg/RPSS/resize/670x-1/format/jpg/\" width=\"670\" />\n<img src=\"https://assets.rockpapershotgun.com/images/2019/01/Humble-Caffeine-4.jpg/RPSS/resize/670x-1/format/jpg/\" width=\"670\" /></p>\n<p>Today&#8217;s <a href=\"https://www.humblebundle.com/games/caffeine-bundle\" rel=\"nofollow\">Humble Caffeine Bundle</a> is chock full of very good games for very little money, but a little hard to categorise. United under the banner of Caffeine &#8211; a &#8220;social broadcasting platform for gaming&#8221;, not the life-giving stimulant &#8211; there&#8217;s eight games here, each one representing a wildly different genre. We&#8217;ve got the Metroidy <a href=\"https://www.rockpapershotgun.com/game/headlander/\">Headlander</a>, platform roguelike <a href=\"https://www.rockpapershotgun.com/game/gonner/\">Gonner</a>, party game tank shooter Treadnauts, a historical novel adaptation and even a ninja stealth sim all up in here. There&#8217;s only (in my opinion) one game that&#8217;s not immediately worth your attention. See the full lineup and trailers below.</p>\n<p> <a href=\"https://www.rockpapershotgun.com/2019/01/22/the-humble-caffeine-bundle-is-full-of-games-worth-staying-up-late-for/#more-636499\" class=\"more-link\"><span aria-label=\"Continue reading The Humble Caffeine Bundle is full of games worth staying up late for\">(more&hellip;)</span></a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1548194177,"feedname":"rps","feed_type":0,"appid":203810}],"count":31}}

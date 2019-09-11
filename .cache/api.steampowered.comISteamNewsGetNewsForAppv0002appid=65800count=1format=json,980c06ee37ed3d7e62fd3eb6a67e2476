@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:39 GMT
+date: Wed, 11 Sep 2019 06:19:39 GMT
+content-length: 1992
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=65800&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":65800,"newsitems":[{"gid":"2530366080599702119","title":"Dungeon Defenders: Awakened Announced — On Kickstarter Now!","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2530366080599702119","is_external_url":true,"author":"[TE] Lawlta","contents":"[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/2836858/46e86cba7f2c1db3d74ecbcad3f25236cc0f6a14.jpg[/img]\r\n\r\nGreetings Defenders!\r\n\r\nEarlier this week we revealed what we were working on so far this year, Dungeon Defenders: Awakened! As Chromatic Games, we're a new studio ([url=https://forums.dungeondefenders.com/blogs/entry/159312-welcome-to-chromatic-games/]which can you read about here[/url]) with entirely new leadership, vision, developers, goals, and focus:  to make player-centric games. This new Dungeon Defenders title is our first step in the right direction and we hope that you'll join us along for the journey.\r\n\r\n[img=https://i.imgur.com/Vk27Ke3.gif][/img]\r\n\r\nBeing a new studio we have a lot of big ambitions for what we want to accomplish, and for that we'll need your help! [url=https://www.kickstarter.com/projects/chromaticgames/dungeon-defenders-awakened]We just launched our Kickstarter, so if you haven't, give it a look and see if it's something you want to back.[/url] We're consistently posting updates and are going to reveal more and more over time!\r\n\r\nWe're taking tons of feedback on this new project at our forums, so if you're interested in joining the conversation head on over to [url=https://forums.dungeondefenders.com/forums/forum/30-dungeon-defenders-awakened-community/]the new snazzy forums[/url] and your voice will be heard!\r\n\r\nThere's so much left to go and we can't wait to get there with you.\r\n\r\nFor Etheria!\r\n\r\nThe Chromatic Games Team","feedlabel":"Community Announcements","date":1552067768,"feedname":"steam_community_announcements","feed_type":1,"appid":65800}],"count":190}}

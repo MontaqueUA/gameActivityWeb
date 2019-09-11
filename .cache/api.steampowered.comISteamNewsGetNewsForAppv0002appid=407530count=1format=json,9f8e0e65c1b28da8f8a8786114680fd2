@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:47 GMT
+date: Wed, 11 Sep 2019 06:19:47 GMT
+content-length: 1621
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=407530&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":407530,"newsitems":[{"gid":"2412160539855249257","title":"Ark: Genesis lets you build houses on giant sea turtles","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/2412160539855249257","is_external_url":true,"author":"contact@rockpapershotgun.com (Emily Gera)","contents":"<p><img src=\"https://assets.rockpapershotgun.com/images/2019/08/f7UVveZa-690x388.jpeg/RPSS/resize/690x-1/format/jpg//RPSS/resize/670x-1/format/jpg/\" width=\"670\" /></p>\n<p>Multiplayer dinosaur-riding island-surviv-a-thon series <a href=\"https://www.rockpapershotgun.com/game/ark-survival-evolved/\">Ark: Survival Evolved</a> has taken inspiration from my fever dreams and will be introducing giant sea turtles who double as islands which then double as an open construction site for your future home.</p>\n<p>The next chapter in the ongoing Ark saga, known as Ark: Genesis, will be made up of two hefty expansion packs. These will introduce tameable albeit shapeshifting animals &#8211; new biomes, and something that&#8217;s being referred to as &#8220;mission-based game mechanics&#8221; which I can only assume is a genetically mutated version of story-based missions. But frankly, it&#8217;s all about my future tortoise island paradise.</p>\n<p> <a href=\"https://www.rockpapershotgun.com/2019/08/08/ark-survival-evolved-trailer/#more-716161\" class=\"more-link\"><span aria-label=\"Continue reading Ark: Genesis lets you build houses on giant sea turtles\">(more&hellip;)</span></a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1565297991,"feedname":"rps","feed_type":0,"appid":346110}],"count":35}}

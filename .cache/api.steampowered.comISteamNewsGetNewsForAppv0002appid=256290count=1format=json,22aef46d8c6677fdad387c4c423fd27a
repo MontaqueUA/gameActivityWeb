@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:44 GMT
+date: Wed, 11 Sep 2019 06:19:44 GMT
+content-length: 2049
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=256290&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":256290,"newsitems":[{"gid":"3556075649734421040","title":"Every Google Stadia game announced so far","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/3556075649734421040","is_external_url":true,"author":"contact@rockpapershotgun.com (Katharine Castle)","contents":"<p><a href=\"https://assets.rockpapershotgun.com/images/2019/06/Stadia-games.png\"><img src=\"https://assets.rockpapershotgun.com/images/2019/06/Stadia-games.png/RPSS/resize/690x-1/format/jpg//RPSS/resize/670x-1/format/jpg/\" width=\"670\" /></a></p>\n<p>Google held another one of their <a href=\"https://www.rockpapershotgun.com/2019/06/07/google-stadia-games-release-date-price-confirmed/\" rel=\"noopener\" target=\"_blank\">Stadia</a> Connect conferences today, and this one was meant to be all about what games you&#8217;ll be playing in the &#8220;<a href=\"https://www.rockpapershotgun.com/2019/07/24/what-happens-if-google-stadia-shuts-down/\" rel=\"noopener\" target=\"_blank\">scary</a>&#8221; cloud come November. Sure enough, there were new Stadia games aplenty announced this evening, with the biggest addition being <a href=\"https://www.rockpapershotgun.com/game/cyberpunk-2077\" rel=\"noopener\" target=\"_blank\">Cyberpunk 2077</a>.</p>\n<p>To help keep track of them all, here&#8217;s a list of every Google Stadia game confirmed so far, as well as which games are coming at launch, which ones will be arriving a little bit later, and which games you&#8217;ll only be able to play by subscribing to one of the special <a href=\"https://www.rockpapershotgun.com/2019/06/09/google-stadia-publisher-subscriptions/\" rel=\"noopener\" target=\"_blank\">Stadia publisher subscriptions</a>. </p>\n<p> <a href=\"https://www.rockpapershotgun.com/2019/08/19/google-stadia-games-2/#more-720383\" class=\"more-link\"><span aria-label=\"Continue reading Every Google Stadia game announced so far\">(more&hellip;)</span></a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1566235359,"feedname":"rps","feed_type":0,"appid":256290}],"count":14}}

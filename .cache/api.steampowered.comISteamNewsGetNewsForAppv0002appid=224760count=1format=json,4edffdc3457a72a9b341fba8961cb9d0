@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 1667
+expires: Wed, 11 Sep 2019 07:19:40 GMT
+date: Wed, 11 Sep 2019 06:19:40 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=224760&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":224760,"newsitems":[{"gid":"2416665403773601561","title":"Free hat game! Fez is free on Epic s Store right now, with Celeste and Inside coming next week","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/2416665403773601561","is_external_url":true,"author":"contact@rockpapershotgun.com (Craig Pearson)","contents":"<p><a href=\"https://assets.rockpapershotgun.com/images/2019/08/ss_4394c6e179fa87e8f8231880bf0e166da1dd8768.1920x1080.jpg\"><img src=\"https://assets.rockpapershotgun.com/images/2019/08/ss_4394c6e179fa87e8f8231880bf0e166da1dd8768.1920x1080.jpg/RPSS/resize/690x-1/format/jpg//RPSS/resize/670x-1/format/jpg/\" width=\"670\" /></a></p>\n<p>You could put together a decent indie games showcase for nothing just by loading the <a href=\"https://www.epicgames.com/store/en-US/product/fez/home\" rel=\"nofollow\">Epic Games Store</a> and clicking a button. The current freebie on there is Polytron&#8217;s excellent, world bending puzzle-platformer, <a href=\"https://www.rockpapershotgun.com/game/fez/\">Fez</a>. It&#8217;s definitely worth the zero doubloons they   re asking for it. In fact, it   s worth at least 100,000,000 times that. Fez is great.</p>\n<p> <a href=\"https://www.rockpapershotgun.com/2019/08/23/free-hat-game-fez-is-free-on-epics-store-right-now-with-celeste-and-limbo-coming-next-week/#more-722169\" class=\"more-link\"><span aria-label=\"Continue reading Free hat game! Fez is free on Epic   s Store right now, with Celeste and Inside coming next week\">(more&hellip;)</span></a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1566573129,"feedname":"rps","feed_type":0,"appid":224760}],"count":22}}

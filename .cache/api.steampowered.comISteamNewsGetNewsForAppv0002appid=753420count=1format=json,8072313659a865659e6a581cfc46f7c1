@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:57 GMT
+date: Wed, 11 Sep 2019 06:19:57 GMT
+content-length: 922
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=753420&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":753420,"newsitems":[{"gid":"2404270358326251362","title":"Daily Deal - Dungreed, 33% Off","url":"https://store.steampowered.com/news/50594/","is_external_url":false,"author":"Valve","contents":"Today's Deal: Save 33% on <a href='http://store.steampowered.com/app/753420/'>Dungreed</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Sunday at 10AM Pacific Time<br><a href=\"http://store.steampowered.com/app/753420/\"><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/753420/capsule_467x181.jpg\" style=\" float: left; margin-right: 12px; height: 181px; width: 467px;\"></a>","feedlabel":"Announcement","date":1556903160,"feedname":"steam_announce","feed_type":0,"appid":753420}],"count":47}}

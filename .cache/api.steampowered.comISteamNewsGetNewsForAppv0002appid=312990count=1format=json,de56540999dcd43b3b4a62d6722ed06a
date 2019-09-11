@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 744
+expires: Wed, 11 Sep 2019 07:19:45 GMT
+date: Wed, 11 Sep 2019 06:19:46 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=312990&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":312990,"newsitems":[{"gid":"518256742328290954","title":"Check out Not A Hero!","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/518256742328290954","is_external_url":true,"author":"raithza","contents":"Our friends over at Roll7 released Not A Hero today!  If freedom came from England it's probably what Broforce would have looked like.  Fast paced cover based 2d action shooter with exploding kittens! \r\n\r\n\r\nhttps://www.youtube.com/watch?v=pl3w5baycdw\r\n\r\nFor more information:\r\n\r\nhttp://store.steampowered.com/app/274270/\r\n","feedlabel":"Community Announcements","date":1431618806,"feedname":"steam_community_announcements","feed_type":1,"appid":312990}],"count":3}}

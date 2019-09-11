@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:55 GMT
+date: Wed, 11 Sep 2019 06:19:55 GMT
+content-length: 1410
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=383980&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":383980,"newsitems":[{"gid":"2408786008255758093","title":"Glitch 7","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2408786008255758093","is_external_url":true,"author":"Etalus","contents":"Rivals of Aether is coming to [url=https://smash.gg/Glitch7]Glitch 7[/url] with Ultimate Rivalries! As a part of this special event, some of the top players in both Rivals and Ultimate will be competing in each other's games. With an added bounty for these players the rivalry is just heating up! \n\nTune in to watch the best Rivals players in the world compete for the title.\n\n[h1]Stream Schedule[/h1]\n[b]Saturday (9/14):[/b]\nChannel: https://twitch.tv/VGBootCamp2\nTime: 5PM PT / 6PM CT / 8PM ET\n\n[b]Sunday (9/15):[/b]\nChannel: https://twitch.tv/VGBootCamp\nTime: 8AM PT / 9AM CT / 11AM ET\n\n[b]Bracket:[/b]\nhttps://smash.gg/Glitch7\n\n[h1]The Rivals Championship Series[/h1]\nGlitch 7 is part of the [url=https://smash.gg/RCS]Rivals Championship Series[/url], the premier circuit for players who want to test their skills against the best. Players compete for prizes and standings over the year to be crowned the season 4 champion.\n\nFind more information about Rivals esports at: https://smash.gg/RCS","feedlabel":"Community Announcements","date":1568160912,"feedname":"steam_community_announcements","feed_type":1,"appid":383980}],"count":95}}

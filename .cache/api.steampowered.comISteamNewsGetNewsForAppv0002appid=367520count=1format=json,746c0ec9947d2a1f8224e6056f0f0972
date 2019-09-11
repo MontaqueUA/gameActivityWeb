@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:48 GMT
+date: Wed, 11 Sep 2019 06:19:48 GMT
+content-length: 1708
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=367520&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":367520,"newsitems":[{"gid":"2413289226972784775","title":"How Hollow Knight's community crafted gibberish into a real language","url":"https://steamstore-a.akamaihd.net/news/externalpost/eurogamer/2413289226972784775","is_external_url":true,"author":"","contents":"<img src=\"https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-09-06-15-51/how-hollow-knights-community-crafted-gibberish-into-a-real-language-1567781461548.jpg/EG11/resize/300x-1/format/jpg/2056752.jpg\" alt=\"\"/><p>Video game lore nerds love a good fake language. Dragon Age has its own version of Elven, The Legend of Zelda has various Hylian dialects, even Ratchet and Clank had its very own Lombax alphabet (which, if I recall correctly, is creatively named 'Lombaxian').</p><p>Hollow Knight is no exception; there's certainly a language in the game, though it isn't obvious, because it all sounds like absolute gibberish. From Iselda's wistful sighs of \"bafanada\", to Hornet's battle cries of \"adino!\", these are just noises to fill the quiet air of the Hallownest and give life to the various bugs we meet.</p><p>These seemingly random sounds are well-designed, characterful expressions which help to provide the player with an idea of each characters' personality. The Dung Defender and his proud guffaws tell us he was a bold and eccentric knight, whereas the Seer's odd chanting paints her as a spiritual figure, if not a bit of a bizarre one.</p><p><a href=\"https://www.eurogamer.net/articles/2019-09-10-how-hollow-knights-community-crafted-gibberish-into-a-real-language\">Read more</a></p>","feedlabel":"Eurogamer","date":1568116800,"feedname":"eurogamer","feed_type":0,"appid":367520}],"count":74}}

@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:46 GMT
+date: Wed, 11 Sep 2019 06:19:47 GMT
+content-length: 2106
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=346110&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":346110,"newsitems":[{"gid":"2413288973190383435","title":"Sponsored Mod Program Update - Sept 2019","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2413288973190383435","is_external_url":true,"author":"Zen Rowe","contents":"[h1]Sponsored Mod Program Applications[/h1]\n\nSponsored Mod Program applications are once again [u]OPEN![/u] If you are interested in sponsorship for your projects, please fill out the application here:\n[url=https://survivetheark.com/index.php?/modding/apply-for-sponsorship/]Apply For Sponsorship[/url]\n\t\nThis will be the last application period until January so make sure to get those projects in!\n\t \n[h1]New Sponsored Mods[/h1]\n\nFinally, We have three new projects joining the Sponsored Mod Program today! We have a pretty interesting range of mod types this time for creatures and a utility mod for builders!\n\n\n[b][u]Clockwork Creatures[/u][/b]\n\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1819883361\n\t\nMechanical steampunk beasts are on the loose! If you are a fan of the steampunk aesthetic, check out this mod which adds a range of new creatures to the game, with more brass than you can shake a stick at.\n\n\n[b][u]ARK Transcendence[/u][/b]\n\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1785800853\n\t\nDo you wish that ARKs creatures had a bit more personality to them? This mod introduces new behaviors to the natural residents of the ARK. The number of creatures it modifies right now is relatively small, but the author is working to expand that.\n\n\n[b][u]Structure Saver 2[/u][/b]\n\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1757259514\n\t\nJust got done building the perfect house and then found a better place to build? Maybe you just want ten more of that house?\nThis mod will let you do that, allowing players to save constructions and place them elsewhere.\n\t\nHappy Modding!\n","feedlabel":"Community Announcements","date":1567726835,"feedname":"steam_community_announcements","feed_type":1,"appid":346110,"tags":["workshop"]}],"count":481}}

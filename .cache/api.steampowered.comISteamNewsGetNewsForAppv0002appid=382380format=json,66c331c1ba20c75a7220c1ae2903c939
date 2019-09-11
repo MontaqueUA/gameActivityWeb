@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 08:41:22 GMT
+date: Wed, 11 Sep 2019 07:41:23 GMT
+content-length: 2022
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=382380&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":382380,"newsitems":[{"gid":"423688185540649078","title":"Trading Cards!","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/423688185540649078","is_external_url":true,"author":"Missile","contents":"Hey everyone! Finished drawing the trading cards and badges recently. Thanks for your patience, they're all active as of now :).\r\n[img]http://i.imgur.com/EENQY3G.jpg[/img]\r\n\r\nAlso as a reminder, you can listen to the game's entire soundtrack on Jasmine's bandcamp at: https://jcoopmusic.bandcamp.com/album/the-amber-throne","feedlabel":"Community Announcements","date":1438378909,"feedname":"steam_community_announcements","feed_type":1,"appid":382380},{"gid":"423686857818657500","title":"Amber Throne Soundtrack!","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/423686857818657500","is_external_url":true,"author":"Missile","contents":"Hey all! Jasmine Cooper, AT's composer has uploaded the full and extended AT soundtrack to her bandcamp, here: https://jcoopmusic.bandcamp.com/album/the-amber-throne\r\n\r\nYou can listen to all of it for free, or pay what you want for a downloadable version! Tons of music, regardless.\r\nEnjoy!","feedlabel":"Community Announcements","date":1437254035,"feedname":"steam_community_announcements","feed_type":1,"appid":382380},{"gid":"424811489616056854","title":"Amber Throne Now Available!","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/424811489616056854","is_external_url":true,"author":"Missile","contents":"Thanks everyone a ton for checking out AT, helping us through greenlight, and everything else! Amber Throne is now available and will be 10% off for the next week! Hope you'll enjoy what we've made.\r\nSteam cards are coming very soon, and I'll be around to fix any bugs if need be!","feedlabel":"Community Announcements","date":1436184915,"feedname":"steam_community_announcements","feed_type":1,"appid":382380}],"count":3}}

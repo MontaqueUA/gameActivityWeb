@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 1310
+expires: Wed, 11 Sep 2019 07:19:54 GMT
+date: Wed, 11 Sep 2019 06:19:54 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=504230&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":504230,"newsitems":[{"gid":"2413289226970623527","title":"Celeste has set off on its final Farewell update","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/2413289226970623527","is_external_url":true,"author":"contact@rockpapershotgun.com (Natalie Clayton)","contents":"<p><img src=\"https://assets.rockpapershotgun.com/images/2019/09/Celeste-Spikes.jpg/RPSS/resize/690x-1/format/jpg//RPSS/resize/670x-1/format/jpg/\" width=\"670\" /></p>\n<p>So long, Madeline. <a href=\"https://www.rockpapershotgun.com/game/celeste/\">Celeste</a>&#8216;s final update, Farewell has arrived amid a busy week for <del datetime=\"2019-09-09T14:55:34+00:00\">Matt Makes</del> Extremely OK Games. With a new studio name and a mysterious new game in the works, the future&#8217;s looking pretty interesting for the Vancouver team. But there&#8217;s still time for one last trip up Celeste Mountain, starting today.</p>\n<p> <a href=\"https://www.rockpapershotgun.com/2019/09/09/celeste-has-set-off-on-its-final-farewell-update/#more-727777\" class=\"more-link\"><span aria-label=\"Continue reading Celeste has set off on its final Farewell update\">(more&hellip;)</span></a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1568058747,"feedname":"rps","feed_type":0,"appid":504230}],"count":41}}

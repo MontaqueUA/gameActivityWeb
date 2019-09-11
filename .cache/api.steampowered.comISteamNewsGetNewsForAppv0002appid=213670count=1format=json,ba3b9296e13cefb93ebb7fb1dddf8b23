@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 2177
+expires: Wed, 11 Sep 2019 07:19:43 GMT
+date: Wed, 11 Sep 2019 06:19:43 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=213670&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":213670,"newsitems":[{"gid":"2127244445195552862","title":"If you treat them as the enemy, it s not going to be a good relationship. Obsidian s Feargus Urquhart on publishers","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/2127244445195552862","is_external_url":true,"author":"contact@rockpapershotgun.com (Rick Lane)","contents":"<p><img src=\"https://assets.rockpapershotgun.com/images//2017/08/feargus-620x318.jpg\" alt=\"]]]]\" width=\"620\" height=\"318\" class=\"size-medium wp-image-472831\" srcset=\"https://assets.rockpapershotgun.com/images/2017/08/feargus-620x318.jpg 620w, https://assets.rockpapershotgun.com/images/2017/08/feargus.jpg 624w\" sizes=\"(max-width: 620px) 100vw, 620px\" /></p>\n<p>Since its foundation in 2003, Obsidian Entertainment has worked with seven different publishers. Commencing with LucasArts on Knights of the Old Republic II, Obsidian has since signed contracts with Atari, SEGA, Bethesda, Square Enix, Ubisoft and most recently, Paradox Interactive. In fact, up until <a href=\"https://www.rockpapershotgun.com/tag/Pillars-of-Eternity/\">Pillars of Eternity</a> [<a href=\"https://www.paradoxplaza.com/pillars-of-eternity/PEPE00GSK-MASTER.html\">official site</a>], every single game Obsidian had made was funded and distributed by a different publisher.</p>\n<p>This is a highly unusual state of affairs, and has proved precarious more than once in the company&#8217;s history. But it has also provided Obsidian with a unique insight into how the world of publishing works, and how the relationship between developer and publisher has changed in the last couple of decades. This topic is especially pertinent today, as new methods of funding and distributing games have seen a significant shift in the power dynamic between developers and publishers.</p>\n<p>I spoke to CEO Feargus Urquhart about how it all works (and doesn&#8217;t).</p>\n<p> <a href=\"https://www.rockpapershotgun.com/2017/09/06/obsidian-publisher-interview/#more-472829\" class=\"more-link\">(more&hellip;)</a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1504720811,"feedname":"rps","feed_type":0,"appid":22380}],"count":12}}

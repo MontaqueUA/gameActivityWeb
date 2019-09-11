@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:50 GMT
+date: Wed, 11 Sep 2019 06:19:51 GMT
+content-length: 954
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=261570&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":261570,"newsitems":[{"gid":"2413284533100145822","title":"Daily Deal - Ori and the Blind Forest, 50% Off","url":"https://store.steampowered.com/news/52579/","is_external_url":false,"author":"Valve","contents":"Today's Deal: Save 50% on <a href='http://store.steampowered.com/app/261570/'>Ori and the Blind Forest</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Monday at 10AM Pacific Time<br><a href=\"http://store.steampowered.com/app/261570/\"><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/261570/capsule_467x181.jpg\" style=\" float: left; margin-right: 12px; height: 181px; width: 467px;\"></a>","feedlabel":"Announcement","date":1563642300,"feedname":"steam_announce","feed_type":0,"appid":261570}],"count":32}}

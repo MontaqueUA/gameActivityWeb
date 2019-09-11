@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:42 GMT
+date: Wed, 11 Sep 2019 06:19:43 GMT
+content-length: 1182
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=268910&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":268910,"newsitems":[{"gid":"2416665403787253130","title":"Cuphead releases sheet music so fans can learn their favourite tunes","url":"https://steamstore-a.akamaihd.net/news/externalpost/eurogamer/2416665403787253130","is_external_url":true,"author":"","contents":"<img src=\"https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-08-27-11-16/-1566900976056.jpg/EG11/resize/300x-1/format/jpg/2054930.jpg\" alt=\"\"/><p>Players can now learn their favourite jazz songs from Cuphead, as Studio MDHR has released official sheet music for the game's score.</p><p>Available to purchase, the sheet music covers all ages and skill levels, with options for high school bands, professionals and even barbershop quartets.</p><p>Prices start at $30 (around   25) and include songs like \"Carnival Kerfuffle\", \"Floral Fury\" and \"Threatenin' Zeppelin\", amongst many more from all your favourite boss fights.</p><p><a href=\"https://www.eurogamer.net/articles/2019-08-27-cuphead-releases-sheet-music-so-fans-can-learn-their-favourite-tunes\">Read more</a></p>","feedlabel":"Eurogamer","date":1566904680,"feedname":"eurogamer","feed_type":0,"appid":268910}],"count":58}}

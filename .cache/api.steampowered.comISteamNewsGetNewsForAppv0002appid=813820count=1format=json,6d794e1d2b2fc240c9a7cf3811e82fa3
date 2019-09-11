@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:58 GMT
+date: Wed, 11 Sep 2019 06:19:58 GMT
+content-length: 2166
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=813820&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":813820,"newsitems":[{"gid":"2413288973189650068","title":"OB22 PTS Forge Testing","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2413288973189650068","is_external_url":true,"author":"HeroicLeapJNash","contents":"OB22 is arriving in early October, ushering in a new Battle Pass and many other exciting features! Ahead of the update’s release, we wanted to announce the introduction of a third ability slot! Abilities will now be categorized into three groups: Offensive, Support, and Movement.\n\nOB22 is arriving in early October, ushering in a new Battle Pass and many other exciting features! Ahead of the update’s release, we want to announce we’ll be introducing a big community request: A third ability slot! Abilities will now be categorized into three groups: Offensive, Support, and Movement.\n\nSeptember 6-8: Players will be able to selectively Forge Offensive and Support Abilities at the Forge. Since each Class only has one Offensive and two Support Abilities, when Forging either of these slots, the pool of Abilities will include neutral and other Class’ Abilities. Movement Ability Forging will still only provide Movement Abilities for your Class.\n\nSeptember 13-15: Players will be able to selectively Forge Class- and Neutral-Offhand Abilities at the Forge. This means you will be able to choose to craft one of your three Class-Offhand Abilities (similar to the existing Forge Ability feature), or craft one ability that is not tied to a specific Class (Barricade, Turret, etc). In this context, “offhand” refers to Abilities that are not Movement Abilities.\n\nPlease join us on the Steam PTS to help test this new system for OB22’s release in early October! Following feedback, we will work alongside the community to figure out which system works best for players. For instructions on downloading the Steam PTS, see the diagram below.\n\n[img]{STEAM_CLAN_IMAGE}/32920656/afab5d9fcb41b2760c181f620e00e7db5ab09d2d.gif[/img]","feedlabel":"Community Announcements","date":1567709302,"feedname":"steam_community_announcements","feed_type":1,"appid":813820}],"count":105}}

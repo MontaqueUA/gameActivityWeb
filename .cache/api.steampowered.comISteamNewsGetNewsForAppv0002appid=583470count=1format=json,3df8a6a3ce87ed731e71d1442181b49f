@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 1612
+expires: Wed, 11 Sep 2019 07:19:55 GMT
+date: Wed, 11 Sep 2019 06:19:55 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=583470&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":583470,"newsitems":[{"gid":"2413288973190266395","title":"Abz and The End is Nigh are currently free on the Epic Store","url":"https://steamstore-a.akamaihd.net/news/externalpost/eurogamer/2413288973190266395","is_external_url":true,"author":"","contents":"<img src=\"https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-09-05-23-41/abzu-and-the-end-is-nigh-are-currently-free-on-the-epic-store-1567723256379.jpg/EG11/resize/300x-1/format/jpg/2056620.jpg\" alt=\"\"/><p>Another week, and another twosome of gaming freebies fired up from the depths of the Epic Games Store, this time catching the light and taking the form of underwater adventure Abz   and post-apocalyptic platformer The End is Nigh.</p><p>Abz   is the brainchild of Matt Nava, who previously served as art director on developer That Game Company's seminal Journey, and there are clear similarities between the two games.</p><p>Both focus on a lone protagonist's slow, steady journey intruding upon magnificent natural sights, and both blend genteel puzzling with frequently breathtaking set-pieces, enriched by the music of Austin Wintory. Indeed, Abz  's stylised rendition of a lost undersea world, and its aquatic inhabitants, is never less than beautiful - even if the experience doesn't quite manage to deliver the emotional wallop that it's clearly aiming for.</p><p><a href=\"https://www.eurogamer.net/articles/2019-09-05-abzu-and-the-end-is-nigh-are-currently-free-on-the-epic-store\">Read more</a></p>","feedlabel":"Eurogamer","date":1567726500,"feedname":"eurogamer","feed_type":0,"appid":577450}],"count":13}}

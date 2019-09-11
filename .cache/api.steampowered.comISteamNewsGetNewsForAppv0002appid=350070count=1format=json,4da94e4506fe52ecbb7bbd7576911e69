@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:47 GMT
+date: Wed, 11 Sep 2019 06:19:47 GMT
+content-length: 1113
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=350070&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":350070,"newsitems":[{"gid":"2415540140456647212","title":"Noita coming to Early Access on September 24th!","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2415540140456647212","is_external_url":true,"author":"Hempuli","contents":"Noita, a game I've been working on in the Nolla Games team, will be coming to Steam Early Access on September 24th and has a new trailer!\r\nCheck out the trailer here: https://www.youtube.com/watch?v=smkdscv6SJs\r\n\r\nNoita's Steam page (if you're interested, do give it a wishlist): https://store.steampowered.com/app/881100/Noita/\r\n\r\nThe game is an action roguelite with the twist of every pixel in the game world being physically simulated. What this means is that the world is made of different materials that can be destroyed and react to each other. Wood burns, and water coming into contact with fire creates steam that in turn condenses back into water, and so on.","feedlabel":"Community Announcements","date":1567092774,"feedname":"steam_community_announcements","feed_type":1,"appid":350070}],"count":43}}

@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:41 GMT
+date: Wed, 11 Sep 2019 06:19:41 GMT
+content-length: 1865
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=257850&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":257850,"newsitems":[{"gid":"3556075649722921806","title":"Mutant Year Zero and Hyper Light Drifter free on Epic Games Store","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/3556075649722921806","is_external_url":true,"author":"contact@rockpapershotgun.com (Alice O'Connor)","contents":"<p><a href=\"https://assets.rockpapershotgun.com/images/2019/08/mutant-year-zero.jpg\"><img src=\"https://assets.rockpapershotgun.com/images/2019/08/mutant-year-zero.jpg/RPSS/resize/690x-1/format/jpg//RPSS/resize/670x-1/format/jpg/\" width=\"670\" /></a></p>\n<p>Another week, another free game on the Epic Games Store &#8211; two, even. Until next Thursday you can grab the tip-top tactical action of <a href=\"https://www.rockpapershotgun.com/game/mutant-year-zero-road-to-eden\">Mutant Year Zero: Road To Eden</a> and the top-down zip-zoom explore-o-action of <a href=\"https://www.rockpapershotgun.com/game/hyper-light-drifter/\">Hyper Light Drifter</a> for free. MYZ is a wild freebie, both because it came out less than one year ago and because it&#8217;s chuffing lovely. Our former Alec (RPS in peace) proffered plenty of praise in his <a href=\"https://www.rockpapershotgun.com/2018/12/04/mutant-year-zero-review-pc/\">Mutant Year Zero review</a> but I, a fool, did not heed his wisdom until a demo came along this year to show me oh yep, it is great. Now you can see that in full for free. Don&#8217;t be as daft as me.</p>\n<p> <a href=\"https://www.rockpapershotgun.com/2019/08/16/mutant-year-zero-and-hyper-light-drifter-free-on-epic-games-store/#more-719471\" class=\"more-link\"><span aria-label=\"Continue reading Mutant Year Zero and Hyper Light Drifter free on Epic Games Store\">(more&hellip;)</span></a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1565959154,"feedname":"rps","feed_type":0,"appid":257850}],"count":73}}

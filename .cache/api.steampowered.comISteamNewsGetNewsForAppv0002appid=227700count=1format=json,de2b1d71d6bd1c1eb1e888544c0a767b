@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:45 GMT
+date: Wed, 11 Sep 2019 06:19:45 GMT
+content-length: 1509
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=227700&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":227700,"newsitems":[{"gid":"2078825132635385817","title":"Sci-fi MMO Firefall is shutting down today","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/2078825132635385817","is_external_url":true,"author":"contact@rockpapershotgun.com (Philippa Warr)","contents":"<p><img src=\"https://www.rockpapershotgun.com/images/17/jul/07firefall.jpg\" alt=\"Firefall\" /></p>\n<p><a href=\"https://www.rockpapershotgun.com/tag/firefall/\">Firefall</a> [<a href=\"http://www.firefall.com/\">official site</a>] &#8211; the sci-fi, jetpacky, free-to-play, fight-the-Chosen-and-reclaim-the-Earth MMO &#8211; is shutting down today (7 July). The announcement came via a post on the game studio&#8217;s website on Wednesday and notes that although the PC iteration of the game is ending they&#8217;re now working on a mobile version.</p>\n<p>&#8220;With heavy hearts, we regret to inform you that after much review and analysis, Red 5 Studios have decided to suspend the Firefall efforts on 7th, July 2017,&#8221; reads <a href=\"http://www.red5studios.com/2017/07/firefall-closure-announcement/\">the announcement</a>. &#8220;Thank you for being an important part of the Firefall experience and for your loyalty and dedication to the online community.&#8221; &#8230; [<a href=\"https://www.rockpapershotgun.com/2017/07/07/firefall-closing/\">visit site to read more</a>]</p>\n","feedlabel":"Rock, Paper, Shotgun","date":1499426305,"feedname":"rps","feed_type":0,"appid":227700}],"count":32}}

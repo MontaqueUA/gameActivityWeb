@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 1939
+expires: Wed, 11 Sep 2019 07:19:49 GMT
+date: Wed, 11 Sep 2019 06:19:49 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=312530&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":312530,"newsitems":[{"gid":"2543878145189447399","title":"Duck Game migrating to Switch this summer","url":"https://steamstore-a.akamaihd.net/news/externalpost/eurogamer/2543878145189447399","is_external_url":true,"author":"","contents":"<img src=\"https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-03-26-10-37/-1553596645854.jpg/EG11/resize/300x-1/format/jpg/2030557.jpg\" alt=\"\"/><p>If you're looking for bird-themed games on Switch this year, you're certainly not going to be stuck with a poultry amount. Along with <a href=\"https://www.eurogamer.net/articles/2019-02-21-untitled-goose-game-waddling-onto-screens-later-than-expected\">Untitled Goose Game (arriving later in 2019)</a>, we can now look forward to Duck Game, which is due to land for Nintendo Switch on 2nd May. Now we just need one more duck game, and then we can officially call the 2019 Switch schedule \"duck duck goose\". </p><p>Duck Game, developed by Landon Podbielski and published by Adult Swim Games, was originally released on the Ouya in 2014 (an odd choice) and later for PC and PlayStation 4. As the name implies, it's a 2D action game featuring a bunch of ducks - except they're all fighting each other with \"shotguns, net guns, mind control rays, saxophones, magnet guns, and pretty much anything else a duck could use as a weapon\".  </p><p>With a couch co-op option of up to four players, it seems like a pretty good fit for the Switch, and I can see myself pulling it out as a party game. There's also online multiplayer and a map editor, meaning you can share your custom-made levels over the world wide webbed. Or you can just go it alone with the single player challenge mode.      </p><p><a href=\"https://www.eurogamer.net/articles/2019-03-26-duck-game-is-migrating-to-switch-this-summer\">Read more</a></p>","feedlabel":"Eurogamer","date":1553597040,"feedname":"eurogamer","feed_type":0,"appid":312530}],"count":13}}

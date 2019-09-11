@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 1143
+expires: Wed, 11 Sep 2019 07:19:42 GMT
+date: Wed, 11 Sep 2019 06:19:42 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=261180&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":261180,"newsitems":[{"gid":"2403126706519988452","title":"Free weekend and half price sale","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2403126706519988452","is_external_url":true,"author":"TR_Dion","contents":"We're giving Lethal League a last blast before the sequel drops next Wednesday! It's free over the weekend and a half price deal if you wanna get it to complete your Lethal collection. That's the lowest discount Lethal League ever had!\r\n\r\n[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/6625751/d377acfe0a7212ee67e7566eb9f569c1d9dbd83b.png[/img]\r\n\r\nGive it a shot to see if you want to get an idea of the new game or poke a bud that's been eying this game for a while. Either way, enjoy and we hope to see you online in this game or the next!\r\n\r\nYou can find all about Lethal League Blaze on the Steam page over here:\r\n\r\nhttps://store.steampowered.com/app/553310/Lethal_League_Blaze/","feedlabel":"Community Announcements","date":1539960001,"feedname":"steam_community_announcements","feed_type":1,"appid":261180}],"count":32}}

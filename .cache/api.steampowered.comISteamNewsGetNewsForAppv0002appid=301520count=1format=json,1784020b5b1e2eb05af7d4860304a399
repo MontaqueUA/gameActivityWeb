@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:44 GMT
+date: Wed, 11 Sep 2019 06:19:45 GMT
+content-length: 533
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=301520&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":301520,"newsitems":[{"gid":"2436926440596070335","title":"Maintenance Complete","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2436926440596070335","is_external_url":true,"author":"FJRC","contents":"Hello Robocrafters,\r\n\r\nWe are now out of maintenance and loading times should be back to normal!\r\n\r\nBuild, Drive, Fight","feedlabel":"Community Announcements","date":1562338488,"feedname":"steam_community_announcements","feed_type":1,"appid":301520}],"count":928}}

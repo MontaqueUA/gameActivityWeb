@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:37 GMT
+date: Wed, 11 Sep 2019 06:19:37 GMT
+content-length: 1737
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=240&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":240,"newsitems":[{"gid":"2413284533092166221","title":"Dustnet is a strange and wonderful dream of the last de_dust2 server","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/2413284533092166221","is_external_url":true,"author":"contact@rockpapershotgun.com (Alice O'Connor)","contents":"<p><a href=\"https://assets.rockpapershotgun.com/images/2019/07/987290_20190718112018_1.png\"><img src=\"https://assets.rockpapershotgun.com/images/2019/07/987290_20190718112018_1.png/RPSS/resize/690x-1/format/jpg//RPSS/resize/670x-1/format/jpg/\" width=\"670\" /></a></p>\n<p>Were Plato alive today, he&#8217;d declare a sixth platonic solid: de_dust2, representing the sixth element of devotion. This sacred configuration of geometry escaped its confinement in Counter-Strike and for eighteen years the map has lived in the hearts of men, re-emerging in dreams, in other games with level editors, and in mashed potato sculptures carved at the dinner table. But in the far future, the last remaining copy of de_dust2 is maintained inside <a href=\"https://www.rockpapershotgun.com/game/dustnet/\">Dustnet</a>, a multiplayer sandbox building self-aware deathmatch museum&#8230; thing? It&#8217;s out now, I&#8217;ve played a bit, I adore it, and I&#8217;m excited to figure out exactly what it is.</p>\n<p> <a href=\"https://www.rockpapershotgun.com/2019/07/18/dustnet-is-a-strange-and-wonderful-dream-of-the-last-de_dust2-server/#more-707121\" class=\"more-link\"><span aria-label=\"Continue reading Dustnet is a strange and wonderful dream of the last de_dust2 server\">(more&hellip;)</span></a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1563451065,"feedname":"rps","feed_type":0,"appid":240}],"count":183}}

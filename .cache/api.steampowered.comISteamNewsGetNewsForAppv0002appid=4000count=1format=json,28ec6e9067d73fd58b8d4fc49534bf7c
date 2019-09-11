@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 1427
+expires: Wed, 11 Sep 2019 07:19:37 GMT
+date: Wed, 11 Sep 2019 06:19:38 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=4000&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":4000,"newsitems":[{"gid":"2413288973192768515","title":"September 2019 Hotfix update","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2413288973192768515","is_external_url":true,"author":"Rubat","contents":"Hey everyone, dropping this small hotfix update that addresses a few issues that came up after release of the September 2019 update.\n\nComplete list of changes is as follows:\n[list]\n[*] Fixed FPS issues after the update\n[*] Fixed an issue with Global NWVars not syncing to client when set during server start up\n[*] A few improvements and fixes to addon menu and custom .gma files\n[*] Fixed host_timescale not resetting with sv_cheats 0 and causing all entities to appear laggy/stuttery\n[*] Fixed NPC driven vehicles not driving at all, such as the Combine APCs on Half-Life 2 maps\n[*] We have disabled spawnlist saving to Steam Cloud for the time being as it caused problems for people playing Garry's Mod on multiple computers with the same Steam account\n[/list]\n\nServer owners only need this hotfix if they use the SetGlobalX functions in Lua.\n\nIf you are still wondering about the Half-Life 2 style crosshair after the update, simply restarting your game should fix it for you.","feedlabel":"Community Announcements","date":1567783854,"feedname":"steam_community_announcements","feed_type":1,"appid":4000,"tags":["patchnotes"]}],"count":192}}

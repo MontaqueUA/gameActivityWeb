@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:42 GMT
+date: Wed, 11 Sep 2019 06:19:42 GMT
+content-length: 1625
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=248820&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":248820,"newsitems":[{"gid":"2465065785298871174","title":"Risk Of Rain 2 explodes into early access with a two-for-one deal","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/2465065785298871174","is_external_url":true,"author":"contact@rockpapershotgun.com (Dominic Tarason)","contents":"<p><img src=\"https://assets.rockpapershotgun.com/images/2019/03/Risk-Of-Rain-2.jpg/RPSS/resize/690x-1/format/jpg//RPSS/resize/670x-1/format/jpg/\" width=\"670\" /></p>\n<p>The original <a href=\"https://www.rockpapershotgun.com/game/risk-of-rain/\">Risk Of Rain</a> was a game about big numbers &#8211; a platform roguelike with a thing for screen-filling, damage-number-generating projectile spam. Three-dimensional sequel <a href=\"https://www.rockpapershotgun.com/game/risk-of-rain-2/\">Risk Of Rain 2</a> has just launched into early access, and is already doubling down on the multipliers, as players who pick it up by midnight PST on March 30th will get a second copy to share with a friend. While it expands into larger polygonal spaces, the sequel looks to be just as messy, but developers Hopoo reckon online co-op for up to four is easier to set up now, connecting directly through Steam.</p>\n<p> <a href=\"https://www.rockpapershotgun.com/2019/03/28/risk-of-rain-2-hits-early-access-in-a-two-for-one-pack/#more-665813\" class=\"more-link\"><span aria-label=\"Continue reading Risk Of Rain 2 explodes into early access with a two-for-one deal\">(more&hellip;)</span></a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1553799961,"feedname":"rps","feed_type":0,"appid":248820}],"count":13}}

@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:55 GMT
+date: Wed, 11 Sep 2019 06:19:55 GMT
+content-length: 1748
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=588650&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":588650,"newsitems":[{"gid":"2413288973186033383","title":"September's Xbox Game Pass games include Gears 5, Dead Cells, Enter the Gungeon","url":"https://steamstore-a.akamaihd.net/news/externalpost/eurogamer/2413288973186033383","is_external_url":true,"author":"","contents":"<img src=\"https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-09-04-19-33/septembers-xbox-game-pass-games-include-gear-5-dead-cells-enter-the-gungeon-1567622001934.jpg/EG11/resize/300x-1/format/jpg/2056318.jpg\" alt=\"\"/><p>If you're an Xbox Game Pass subscriber positively quivering with anticipation over what happens next, inner peace is about to be restored: Microsoft has revealed the full line-up of games coming to the service on PC and Xbox One in September.</p><p>The biggie, of course, is Gears 5, the latest instalment in Microsoft's long-running cover-shooter series. The 'of War' may be no more, but the thick necks and bug mangling are still present and correct - and Xbox One and PC Game Pass subscribers will be able to see how developer The Coalition has fared on Friday, 6th September.</p><p>Before that, however, Motion Twin's exquisite action-platform rogue-like Dead Cells joins the Game Pass library tomorrow, 5th September, on Xbox One. It's coming to PC this month too but - and you'll soon spot a theme here - there's no release date on the platform at present. Metal Gear Solid HD Edition: 2 &amp; 3 also arrives on the 5th, but that's Xbox One only.</p><p><a href=\"https://www.eurogamer.net/articles/2019-09-04-septembers-xbox-game-pass-games-include-gear-5-dead-cells-enter-the-gungeon\">Read more</a></p>","feedlabel":"Eurogamer","date":1567624500,"feedname":"eurogamer","feed_type":0,"appid":311690}],"count":141}}

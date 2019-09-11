@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:57 GMT
+date: Wed, 11 Sep 2019 06:19:57 GMT
+content-length: 1746
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=698780&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":698780,"newsitems":[{"gid":"2462791699367448782","title":"How Doki Doki Literature Club frames you","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/2462791699367448782","is_external_url":true,"author":"contact@rockpapershotgun.com (Darragh Nolan)","contents":"<p><a href=\"https://assets.rockpapershotgun.com/images/2018/07/1-Intro.jpg\"><img src=\"https://assets.rockpapershotgun.com/images/2018/07/1-Intro.jpg\" alt=\"\" width=\"3200\" height=\"1800\" class=\"alignnone size-full wp-image-571511\" srcset=\"https://assets.rockpapershotgun.com/images/2018/07/1-Intro.jpg 3200w, https://assets.rockpapershotgun.com/images/2018/07/1-Intro-1212x682.jpg 1212w, https://assets.rockpapershotgun.com/images/2018/07/1-Intro-760x428.jpg 760w\" sizes=\"(max-width: 3200px) 100vw, 3200px\" /></a></p>\n<p><em>This article spoils <a href=\"http://www.rockpapershotgun.com/games/doki-doki-literature-club\">Doki Doki Literature Club</a> in the first sentence, it presupposes you   ve played it, and goes on to spoil the narrative tricks the game uses to make its story meaningful. So if you haven   t played the game, get it (it   s free),make a pot of coffee, set aside four hours, play it, and then come back here and read this. Like the dentist, it   s good for you and in no way painful at all I promise I really do and I wouldn&#8217;t lie to you xx</em></p>\n<p> <a href=\"https://www.rockpapershotgun.com/2018/07/25/how-doki-doki-literature-club-frames-you/#more-571503\" class=\"more-link\"><span aria-label=\"Continue reading How Doki Doki Literature Club frames you\">(more&hellip;)</span></a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1532543434,"feedname":"rps","feed_type":0,"appid":698780}],"count":9}}

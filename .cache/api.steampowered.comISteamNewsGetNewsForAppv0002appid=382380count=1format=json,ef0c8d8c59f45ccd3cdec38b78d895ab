@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 727
+expires: Wed, 11 Sep 2019 07:19:50 GMT
+date: Wed, 11 Sep 2019 06:19:50 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=382380&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":382380,"newsitems":[{"gid":"423688185540649078","title":"Trading Cards!","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/423688185540649078","is_external_url":true,"author":"Missile","contents":"Hey everyone! Finished drawing the trading cards and badges recently. Thanks for your patience, they're all active as of now :).\r\n[img]http://i.imgur.com/EENQY3G.jpg[/img]\r\n\r\nAlso as a reminder, you can listen to the game's entire soundtrack on Jasmine's bandcamp at: https://jcoopmusic.bandcamp.com/album/the-amber-throne","feedlabel":"Community Announcements","date":1438378909,"feedname":"steam_community_announcements","feed_type":1,"appid":382380}],"count":3}}

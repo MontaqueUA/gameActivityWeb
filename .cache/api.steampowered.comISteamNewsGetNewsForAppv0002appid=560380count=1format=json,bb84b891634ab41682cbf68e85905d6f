@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 1375
+expires: Wed, 11 Sep 2019 07:19:54 GMT
+date: Wed, 11 Sep 2019 06:19:54 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=560380&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":560380,"newsitems":[{"gid":"2415540140464181575","title":"[COMPLETE] August 31 Unscheduled Maintenance - NA East only!","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2415540140464181575","is_external_url":true,"author":"CM Kyrios","contents":"[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/33702547/f19209a87c4363dfe22e8347aa95ab456b9929a5.jpg[/img]\r\n\r\nWe are performing a quick unscheduled maintenance on [b]Saturday, August 31st[/b] at [b]1:45 PM EDT[/b]. During this period, [b]NA East[/b] will be unavailable. We anticipate the maintenance to last approximately [b]30 minutes[/b], concluding at around [b]2:15 PM EDT[/b]. [b]All other servers are unaffected by this[/b].\r\n\r\n[b][i]Update 1:58 PM EDT - The maintenance is now complete. Thank you for your patience Maplers![/i][/b]\r\n\r\n[b]- Start and End Times -[/b]\r\n[list]\r\n[*][b]EDT (UTC -4)[/b]: 1:45 PM - 2:15 PM\r\nPlease note that the estimated length of time for each maintenance is subject to change without notification.\r\n\r\n[b]- What -[/b]\r\n[list]\r\n[*]Restarting servers so that players can log back in after server host issues have been resolved.\r\n[/list]","feedlabel":"Community Announcements","date":1567272914,"feedname":"steam_community_announcements","feed_type":1,"appid":560380}],"count":150}}

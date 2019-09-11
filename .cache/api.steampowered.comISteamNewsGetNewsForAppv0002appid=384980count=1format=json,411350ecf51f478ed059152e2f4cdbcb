@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:50 GMT
+date: Wed, 11 Sep 2019 06:19:50 GMT
+content-length: 471
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=384980&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":384980,"newsitems":[{"gid":"423686857806252166","title":"v1.1.0","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/423686857806252166","is_external_url":true,"author":"niflying","contents":"Added “Fast forward” button.\r\nDifficulty adjustment.\r\nScore bugs fixed.","feedlabel":"Community Announcements","date":1436957417,"feedname":"steam_community_announcements","feed_type":1,"appid":384980}],"count":6}}

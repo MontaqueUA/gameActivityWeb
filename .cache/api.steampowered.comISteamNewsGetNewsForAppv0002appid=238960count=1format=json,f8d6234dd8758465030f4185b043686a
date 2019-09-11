@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+content-length: 1925
+expires: Wed, 11 Sep 2019 07:19:40 GMT
+date: Wed, 11 Sep 2019 06:19:40 GMT
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=238960&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":238960,"newsitems":[{"gid":"2413289226970918312","title":"Path of Exile: Blight - What We're Working On","url":"https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2413289226970918312","is_external_url":true,"author":"Natalia_GGG","contents":"It's been three days since the launch of Path of Exile: Blight, and the team has gone through much of the feedback and many of the bugs reported so far. We've prepared an update about some of the issues that we are working on fixing as soon as possible. \n\nThese are the issues that will be addressed later today in a patch: \n[list]\n[*] The Pulsating Grotto, Restless Rubble and Haunted Remains Delve encounters cannot be completed.\n[*] Dying in a map Labyrinth Trial resurrecting you in hideout instead of the map.\n[*] Incorrect default location when entering Hideout.\n[*] Summoned Raging Spirits not prioritising targets correctly.\n[*] Bodyswap not interacting correctly with Zombies when using Aukuna's Will.\n[/list]For ongoing updates, keep an eye on the [url=https://www.pathofexile.com/forum/view-thread/1733474]Known Issues List[/url]. If you find any errors, please report them in the [url=https://www.pathofexile.com/forum/view-forum/bug-reports]bug report[/url] forum where they can be processed by our QA team. They're not able to reply to every thread but rest assured that they do see and process all reports that come in. \n\nWe're also aware that end-game Blight encounters (like those in Blighted Maps) are running into both performance and stability issues. We are working hard on resolving these, as well as other general crashes, as soon as possible. \n\nWe will continue to work on resolving the remaining issues. Thank you again for your continued feedback!","feedlabel":"Community Announcements","date":1568068611,"feedname":"steam_community_announcements","feed_type":1,"appid":238960}],"count":1783}}

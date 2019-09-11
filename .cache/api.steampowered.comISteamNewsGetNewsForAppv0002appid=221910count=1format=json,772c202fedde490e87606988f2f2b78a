@@ -1,0 +1,12 @@
+status: 200
+content-type: application/json; charset=UTF-8
+vary: Accept-Encoding
+expires: Wed, 11 Sep 2019 07:19:41 GMT
+date: Wed, 11 Sep 2019 06:19:42 GMT
+content-length: 1628
+connection: keep-alive
+-content-encoding: gzip
+content-location: http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=221910&count=1&format=json
+-varied-accept-encoding: gzip, deflate
+
+{"appnews":{"appid":221910,"newsitems":[{"gid":"2412160539855889510","title":"One of the devs behind The Stanley Parable made a free MMO","url":"https://steamstore-a.akamaihd.net/news/externalpost/rps/2412160539855889510","is_external_url":true,"author":"contact@rockpapershotgun.com (Emily Gera)","contents":"<p><img src=\"https://assets.rockpapershotgun.com/images/2019/08/club-entrance-690x388.png/RPSS/resize/690x-1/format/jpg//RPSS/resize/670x-1/format/jpg/\" width=\"670\" /></p>\n<p>Indie developer Crows Crows Crows, whose founder William Pugh is one of the developers behind <a href=\"https://www.rockpapershotgun.com/game/the-stanley-parable/\">The Stanley Parable</a>, has released a free browser-based MMO. It is described as &#8220;a mix between Journey, RuneScape and that time U2   s new album got auto-installed on everybody   s iPhones.&#8221; <a href=\"https://www.rockpapershotgun.com/game/the-club/\">The Club</a> &#8211; a blocky 90s-Internet styled multi-player discothon whose name is surrounded by the animated GIF flames of a Geocities fan page, and whose club tracks sound like a DJ set by David Lynch &#8211; is a mission-less, non-competitive, online music listening game. It is hell. It is perfect.</p>\n<p> <a href=\"https://www.rockpapershotgun.com/2019/08/09/one-of-the-devs-behind-the-stanley-parable-made-a-free-mmo/#more-716203\" class=\"more-link\"><span aria-label=\"Continue reading One of the devs behind The Stanley Parable made a free MMO\">(more&hellip;)</span></a></p>\n","feedlabel":"Rock, Paper, Shotgun","date":1565311326,"feedname":"rps","feed_type":0,"appid":221910}],"count":49}}
